@@ -6,6 +6,7 @@
 - Python
 - Machine Learning
 - R
+- SQL
 - Docker
 - AWS
 
