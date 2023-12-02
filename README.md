@@ -1,8 +1,8 @@
-# Hola, soy Javi
+# Hi, I'm Javi
 
-## Estudiante de Ciencia de Datos e IA
+## IA Data Science and AI student
 
-### Tecnologías que manejo:
+### Technologies I work with:
 - Python
 - Machine Learning
 - R
