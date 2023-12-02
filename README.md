@@ -2,14 +2,14 @@
 
 ## Estudiante de Ciencia de Datos e IA
 
-## Tecnologías que manejo:
+### Tecnologías que manejo:
 - Python
 - Machine Learning
 - R
 - Docker
 - AWS
 
-## Contacto
+### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/javier-p%C3%A9rez-vargas-8002b9213/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/javiipzv)
 
