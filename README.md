@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hola, soy Javi
+
+## Estudiante de Ciencia de Datos e IA
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/javier-p%C3%A9rez-vargas-8002b9213/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/javiipzv)
 
 <!--
 **javipzv/javipzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
