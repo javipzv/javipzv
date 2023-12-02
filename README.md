@@ -1,6 +1,6 @@
 # Hi, I'm Javi 😄
 
-## IA Data Science and AI student
+## Data Science and AI student
 
 ### Technologies I work with:
 - Python
