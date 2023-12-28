@@ -9,7 +9,6 @@
 - SQL
 - Docker
 - AWS
-- Web Scraping
 
 ### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/javier-p%C3%A9rez-vargas-8002b9213/)
